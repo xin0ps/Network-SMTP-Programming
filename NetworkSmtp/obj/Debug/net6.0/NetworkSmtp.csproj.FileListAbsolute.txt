@@ -1,0 +1,14 @@
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\bin\Debug\net6.0\NetworkSmtp.exe
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\bin\Debug\net6.0\NetworkSmtp.deps.json
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\bin\Debug\net6.0\NetworkSmtp.runtimeconfig.json
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\bin\Debug\net6.0\NetworkSmtp.dll
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\bin\Debug\net6.0\NetworkSmtp.pdb
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\obj\Debug\net6.0\NetworkSmtp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\obj\Debug\net6.0\NetworkSmtp.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\obj\Debug\net6.0\NetworkSmtp.AssemblyInfo.cs
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\obj\Debug\net6.0\NetworkSmtp.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\obj\Debug\net6.0\NetworkSmtp.dll
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\obj\Debug\net6.0\refint\NetworkSmtp.dll
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\obj\Debug\net6.0\NetworkSmtp.pdb
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\obj\Debug\net6.0\NetworkSmtp.genruntimeconfig.cache
+C:\Users\ROG\source\repos\NetworkSmtp\NetworkSmtp\obj\Debug\net6.0\ref\NetworkSmtp.dll
